@@ -1,0 +1,15 @@
+E:\Projects\CSharpEducation.GitLesson\CSharpEducation\CSharpEducation.GitLesson\bin\Debug\net7.0\CSharpEducation.GitLesson.exe
+E:\Projects\CSharpEducation.GitLesson\CSharpEducation\CSharpEducation.GitLesson\bin\Debug\net7.0\CSharpEducation.GitLesson.deps.json
+E:\Projects\CSharpEducation.GitLesson\CSharpEducation\CSharpEducation.GitLesson\bin\Debug\net7.0\CSharpEducation.GitLesson.runtimeconfig.json
+E:\Projects\CSharpEducation.GitLesson\CSharpEducation\CSharpEducation.GitLesson\bin\Debug\net7.0\CSharpEducation.GitLesson.dll
+E:\Projects\CSharpEducation.GitLesson\CSharpEducation\CSharpEducation.GitLesson\bin\Debug\net7.0\CSharpEducation.GitLesson.pdb
+E:\Projects\CSharpEducation.GitLesson\CSharpEducation\CSharpEducation.GitLesson\obj\Debug\net7.0\CSharpEducation.GitLesson.csproj.AssemblyReference.cache
+E:\Projects\CSharpEducation.GitLesson\CSharpEducation\CSharpEducation.GitLesson\obj\Debug\net7.0\CSharpEducation.GitLesson.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\CSharpEducation.GitLesson\CSharpEducation\CSharpEducation.GitLesson\obj\Debug\net7.0\CSharpEducation.GitLesson.AssemblyInfoInputs.cache
+E:\Projects\CSharpEducation.GitLesson\CSharpEducation\CSharpEducation.GitLesson\obj\Debug\net7.0\CSharpEducation.GitLesson.AssemblyInfo.cs
+E:\Projects\CSharpEducation.GitLesson\CSharpEducation\CSharpEducation.GitLesson\obj\Debug\net7.0\CSharpEducation.GitLesson.csproj.CoreCompileInputs.cache
+E:\Projects\CSharpEducation.GitLesson\CSharpEducation\CSharpEducation.GitLesson\obj\Debug\net7.0\CSharpEducation.GitLesson.dll
+E:\Projects\CSharpEducation.GitLesson\CSharpEducation\CSharpEducation.GitLesson\obj\Debug\net7.0\refint\CSharpEducation.GitLesson.dll
+E:\Projects\CSharpEducation.GitLesson\CSharpEducation\CSharpEducation.GitLesson\obj\Debug\net7.0\CSharpEducation.GitLesson.pdb
+E:\Projects\CSharpEducation.GitLesson\CSharpEducation\CSharpEducation.GitLesson\obj\Debug\net7.0\CSharpEducation.GitLesson.genruntimeconfig.cache
+E:\Projects\CSharpEducation.GitLesson\CSharpEducation\CSharpEducation.GitLesson\obj\Debug\net7.0\ref\CSharpEducation.GitLesson.dll

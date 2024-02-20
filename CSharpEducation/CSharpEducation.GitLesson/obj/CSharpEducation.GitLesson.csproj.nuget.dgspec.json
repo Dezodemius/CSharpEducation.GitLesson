@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gladk\\source\\repos\\CSharpEducation\\CSharpEducation.GitLesson\\CSharpEducation.GitLesson.csproj": {}
+    "E:\\Projects\\CSharpEducation.GitLesson\\CSharpEducation\\CSharpEducation.GitLesson\\CSharpEducation.GitLesson.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gladk\\source\\repos\\CSharpEducation\\CSharpEducation.GitLesson\\CSharpEducation.GitLesson.csproj": {
+    "E:\\Projects\\CSharpEducation.GitLesson\\CSharpEducation\\CSharpEducation.GitLesson\\CSharpEducation.GitLesson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gladk\\source\\repos\\CSharpEducation\\CSharpEducation.GitLesson\\CSharpEducation.GitLesson.csproj",
+        "projectUniqueName": "E:\\Projects\\CSharpEducation.GitLesson\\CSharpEducation\\CSharpEducation.GitLesson\\CSharpEducation.GitLesson.csproj",
         "projectName": "CSharpEducation.GitLesson",
-        "projectPath": "C:\\Users\\gladk\\source\\repos\\CSharpEducation\\CSharpEducation.GitLesson\\CSharpEducation.GitLesson.csproj",
+        "projectPath": "E:\\Projects\\CSharpEducation.GitLesson\\CSharpEducation\\CSharpEducation.GitLesson\\CSharpEducation.GitLesson.csproj",
         "packagesPath": "C:\\Users\\gladk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gladk\\source\\repos\\CSharpEducation\\CSharpEducation.GitLesson\\obj\\",
+        "outputPath": "E:\\Projects\\CSharpEducation.GitLesson\\CSharpEducation\\CSharpEducation.GitLesson\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gladk\\AppData\\Roaming\\NuGet\\NuGet.Config",
