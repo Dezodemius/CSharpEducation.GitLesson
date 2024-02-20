@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            const int N = 101;
+            const int N = 100;
             var array = GetArray(N);
             for (int i = 0; i < N; i++) 
             {
