@@ -1,1 +1,1 @@
-"# CSharpEducation.GitLesson" 
+# CSharpEducation.GitLesson 
