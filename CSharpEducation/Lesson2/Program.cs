@@ -4,7 +4,19 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            const int N = 10;
+            var array = GetArray(N);
+            for (int i = 0; i < N; i++) 
+            {
+                array[i] = i;
+            }
+            for (int i = 0; i < N; i++)
+            {
+                Console.Write(i);
+                if (i < N - 1)
+                    Console.Write(", ");
+            }
+            Console.WriteLine();
         }
 
         public static int[] GetArray(int n)
